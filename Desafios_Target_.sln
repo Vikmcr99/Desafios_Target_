@@ -3,7 +3,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.10.35027.167
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Desafios_Target_", "Desafios_Target_\Desafios_Target_.csproj", "{FAA58749-A5AB-40F3-B68A-E896D758D6AF}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Desafios_Target_1", "Desafios_Target_\Desafios_Target_1.csproj", "{FAA58749-A5AB-40F3-B68A-E896D758D6AF}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Desafio_Target_2", "Desafio_Target_2\Desafio_Target_2.csproj", "{164A0E65-AE2C-4745-BC6D-FB6E837611B5}"
 EndProject

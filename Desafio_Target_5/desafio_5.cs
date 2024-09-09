@@ -46,5 +46,4 @@ class desafio_5
         }
     }
 
-    // EXPLICAÇÂO: 
 }
